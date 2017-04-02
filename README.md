@@ -1,2 +1,2 @@
-# Java-Projects
-Homeworks in Java
+# 1st Java Project
+Autocomplete program
